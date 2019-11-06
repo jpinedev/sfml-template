@@ -1,4 +1,4 @@
-# smfl-template
+# sfml-template
 Run this snippet to compile:
 ```g++ *.cpp -lsfml-graphics -lsfml-audio -lsfml-window -lsfml-system```
 
